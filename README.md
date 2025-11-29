@@ -5,7 +5,7 @@ pip install requests
 
 CK-IN-OUT/              <-- โฟลเดอร์หลัก
 │
-├── app.py               <-- ไฟล์ Python (Backend) ที่เราทำกันล่าสุด
+├── app.py               <-- ไฟล์ Python (Backend) 
 │
 ├── templates/           <-- (โฟลเดอร์) เก็บหน้าเว็บ
 │   ├── index.html       <-- หน้า User
